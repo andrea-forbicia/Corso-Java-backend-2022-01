@@ -1,3 +1,5 @@
+package module_1;
+
 import java.util.Scanner;
 
 public class M1_E4_Replace_Intruders {
