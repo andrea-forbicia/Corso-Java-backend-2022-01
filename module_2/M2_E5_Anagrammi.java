@@ -1,3 +1,5 @@
+package module_2;
+
 import java.util.Scanner;
 
 public class M2_E5_Anagrammi {
